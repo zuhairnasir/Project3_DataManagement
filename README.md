@@ -7,7 +7,7 @@
 ---
 
 ## 📖 Project Overview
-![MovieLens Pipeline Overview](images/movielens.png)
+![MovieLens Pipeline Overview](image/movielens.png)
 
 
 This project ingests the MovieLens 100k dataset into HDFS and Cassandra, transforms it with Spark, and analyzes user ratings and demographics using Spark SQL and Cassandra CQL. 🤓
