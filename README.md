@@ -5,6 +5,8 @@
 **⏰ Deadline:** June 28, 2025
 
 ---
+![MovieLens Pipeline Overview](https://bookandfilmglobe.com/film/my-life-as-a-movielens-test-subject/)
+
 
 ## 📖 Project Overview
 
