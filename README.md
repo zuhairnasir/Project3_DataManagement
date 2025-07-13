@@ -6,12 +6,10 @@
 
 ---
 
-## 🔎 Brief
-Build an **end-to-end pipeline** that ingests, processes, and analyzes the MovieLens 100k dataset using Hadoop, Spark, and Cassandra. Gain hands-on experience with distributed storage, big-data processing, and NoSQL querying. 🤓
+# 📖 Project Overview
 
----
+This project ingests the MovieLens 100k dataset into HDFS and Cassandra, transforms it with Spark, and analyzes user ratings and demographics using Spark SQL and Cassandra CQL. 🤓
 
-## 📖 Project Overview
 - **📥 Load:** MovieLens data into HDFS and Cassandra.  
 - **🔄 Transform:** Raw files into Spark DataFrames/RDDs and persist results.  
 - **📊 Analyze:** Ratings and user behavior via Spark SQL and Cassandra CQL.  
