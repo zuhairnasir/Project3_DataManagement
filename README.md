@@ -5,10 +5,10 @@
 **⏰ Deadline:** June 28, 2025
 
 ---
-![MovieLens Pipeline Overview](https://bookandfilmglobe.com/film/my-life-as-a-movielens-test-subject/)
-
 
 ## 📖 Project Overview
+![MovieLens Pipeline Overview](images/movielens.png)
+
 
 This project ingests the MovieLens 100k dataset into HDFS and Cassandra, transforms it with Spark, and analyzes user ratings and demographics using Spark SQL and Cassandra CQL. 🤓
 
@@ -16,6 +16,8 @@ This project ingests the MovieLens 100k dataset into HDFS and Cassandra, transfo
 - **🔄 Transform:** Raw files into Spark DataFrames/RDDs and persist results.  
 - **📊 Analyze:** Ratings and user behavior via Spark SQL and Cassandra CQL.  
 - **📝 Document:** Each step in scripts and a Jupyter notebook for reproducibility.
+  
+> Dataset can be obtained from [MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/100k/)
 
 ---
 
