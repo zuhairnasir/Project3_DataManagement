@@ -36,11 +36,11 @@ Build an **end-to-end pipeline** that ingests, processes, and analyzes the Movie
 ---
 
 ## ❓ Questions / Tasks
-1. **1. Calculate the average rating for each movie.**
-2. **2. Identify the top ten movies with the highest average ratings.**
-3. **3. Find the users who have rated at least 50 movies and identify their favourite movie genres.**  
-4. **4. Find all the users who are less than 20 years old.**  
-5. **5. Find all the users whose occupation is “scientist” and whose age is between 30 and 40 years old.**
+1. ** Calculate the average rating for each movie.**
+2. ** Identify the top ten movies with the highest average ratings.**
+3. ** Find the users who have rated at least 50 movies and identify their favourite movie genres.**  
+4. ** Find all the users who are less than 20 years old.**  
+5. ** Find all the users whose occupation is “scientist” and whose age is between 30 and 40 years old.**
 
 ---
 
