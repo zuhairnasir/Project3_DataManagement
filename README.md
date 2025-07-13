@@ -49,3 +49,14 @@ Build an **end-to-end pipeline** that ingests, processes, and analyzes the Movie
    ```bash
    git clone https://github.com/<username>/movielens-assignment3.git
    cd movielens-assignment3
+   
+2. **Upload Data in Zeppelin**
+
+- **Open Apache Zeppelin in your browser.**
+- **Upload the provided JSON/script into a new notebook.**
+- ** Fetch Raw Dataset**
+  ```bash
+   wget http://media.sundog-soft.com/hadoop/ml-100k/u.user   -O /tmp/u.user
+   wget http://media.sundog-soft.com/hadoop/ml-100k/u.data   -O /tmp/u.data
+   wget http://media.sundog-soft.com/hadoop/ml-100k/u.item   -O /tmp/u.item
+Fetch Raw Dataset
