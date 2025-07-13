@@ -36,11 +36,11 @@ Build an **end-to-end pipeline** that ingests, processes, and analyzes the Movie
 ---
 
 ## ❓ Questions / Tasks
-1. **⭐ Average rating per movie**  
-2. **🏆 Top 10 movies by highest average rating**  
-3. **🎯 Users with ≥ 50 ratings & their favorite genres**  
-4. **👶 Users under 20 years old**  
-5. **🔬 Scientists aged 30–40**
+1. **1. Calculate the average rating for each movie.**
+2. **2. Identify the top ten movies with the highest average ratings.**
+3. **3. Find the users who have rated at least 50 movies and identify their favourite movie genres.**  
+4. **4. Find all the users who are less than 20 years old.**  
+5. **5. Find all the users whose occupation is “scientist” and whose age is between 30 and 40 years old.**
 
 ---
 
@@ -54,9 +54,8 @@ Build an **end-to-end pipeline** that ingests, processes, and analyzes the Movie
 
 - **Open Apache Zeppelin in your browser.**
 - **Upload the provided JSON/script into a new notebook.**
-- ** Fetch Raw Dataset**
+- **Fetch Raw Dataset.**
   ```bash
    wget http://media.sundog-soft.com/hadoop/ml-100k/u.user   -O /tmp/u.user
    wget http://media.sundog-soft.com/hadoop/ml-100k/u.data   -O /tmp/u.data
    wget http://media.sundog-soft.com/hadoop/ml-100k/u.item   -O /tmp/u.item
-Fetch Raw Dataset
