@@ -1,6 +1,6 @@
 # 🎬 Project 3 - MovieLens Data Management Assignment
 
-**👤 Author:** <Your Name>  
+**👤 Author:** Muhammad Zuhair Afham Bin Mohd Nasir
 **🏫 Course:** STQD6324 Data Management (Sem 2, 2024/2025)  
 **⏰ Deadline:** June 28, 2025
 
